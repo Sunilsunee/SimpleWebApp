@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1>flipkart mobile offers will be ended by 29th september 2023</h1>   
+         <h1>flipkart laptop offers will be started from 6th september 2023</h1>   
 	 
 
     </section>    
